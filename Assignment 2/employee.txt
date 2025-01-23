@@ -1,0 +1,12 @@
+Ahmad Faizal Daud,Human Resource,2500 8
+Siti Aisyah Ali,Information Technology,4500 12
+Lee Mei Yin,Information Technology,5200 10
+Rahim Abdullah,Finance,3800 4
+Raj Kumar Devan,Finance,3200 6
+Tan Wei Chong,Information Technology,5000 15
+Amira Zahid,Human Resource,2900 9
+Nurul Huda Abdullah,Human Resource,2800 10
+Ali Hakim Rosli,Finance,4000 5
+Faridah Hamzah,Human Resource,2600 7
+Zainab Ismail,Information Technology,4700 13
+Samuel Lim,Finance,3500 8
